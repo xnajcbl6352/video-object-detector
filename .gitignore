@@ -1,0 +1,30 @@
+# Entorno virtual
+venv/
+env/
+ENV/
+
+# Archivos temporales
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.Python
+*.egg
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Directorios temporales
+output/
+temp_videos/
+models/
+temp/
+
+# Archivos de configuración
+.DS_Store
+.env
+
+# Archivos de caché de Streamlit
+.streamlit/
